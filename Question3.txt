@@ -1,0 +1,1 @@
+If I could change anything about Java, it would be its memory and speed. It would be advantageous if it could consume less memory so that code could run more efficiently.
